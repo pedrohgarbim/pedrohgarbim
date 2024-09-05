@@ -14,6 +14,8 @@
 <a href="https://www.linkedin.com/in/pedro-henrique-garbim-7345992ba/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
 
+  ## Check out all my Pinned Projects and Contributions below! ! !
+
 <div align="center">
 <img src="https://cdnb.artstation.com/p/assets/images/images/042/991/491/original/romain-courtois-piscine-ok.gif?1635986341"/>
    </div>
